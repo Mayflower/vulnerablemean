@@ -9,8 +9,8 @@ var app = express();
 // Config Object
 var config = {
 	rootPath: __dirname,
-	db : 'mongodb://test:test@ds053188.mongolab.com:53188/hello',
-	port : process.env.PORT || 3030
+	db : 'mongodb://localhost/mean-dev',
+	port : process.env.PORT || 3000
 }
 
 // EXPRESS setup
