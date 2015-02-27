@@ -20,7 +20,7 @@ sudo npm install -g npm grunt-cli
 
 
 echo "Installing Yeoman & generator..."
-sudo npm install -g yo generator-meanjs generator-meancrud gulp
+sudo npm install -g yo generator-meanjs generator-meancrud gulp nodemon
 
 echo "========================="
 echo "Provisioning finished"
