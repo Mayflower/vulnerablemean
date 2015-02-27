@@ -2,6 +2,9 @@
 logs
 *.log
 
+#Vagrant stuff
+.vagrant
+
 # Runtime data
 pids
 *.pid
